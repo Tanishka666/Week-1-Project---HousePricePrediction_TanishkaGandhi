@@ -1,4 +1,4 @@
-                                                                     # House Price Prediction
+# House Price Prediction
 
 ## Overview
 This project predicts house prices using machine learning techniques based on property features such as area, bedrooms, bathrooms, parking, furnishing status, and other amenities.
